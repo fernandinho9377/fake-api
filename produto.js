@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {"nome":"Camisa1","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\camisa1","valor":42.50},
     {"nome":"camisabranca","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\camisabranca","valor":42.5},
     {"nome":"camisavermelha","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\camisavermelha","valor":42.5},
@@ -7,5 +8,9 @@
     {"nome":"camisaxadrez","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\camisaxadrez","valor":69.50},
     {"nome":"camisasocial","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\camisasocial","valor":79,90},
     {"nome":"moletom","img":"C:\Users\Fernandinho\Desktop\JAVA CURSO SENAI\fake-api\img\moletom","valor":119.90}
+=======
+    {"nome":"camisa1","img":"https://fernandinho9377.github.io/fake-api/img/camisa1.png","valor":39.90},
+    {"nome":"camisa2","img":"https://fernandinho9377.github.io/fake-api//img/camisa2.png","valor":40.90}
+>>>>>>> 806eef1a334d020b8d5b3bffa322de49932ac531
     
 ]
